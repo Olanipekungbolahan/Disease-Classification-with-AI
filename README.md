@@ -1,5 +1,5 @@
-# Disease-Classification-with-AI
-# Disease Classification Web App
+# Disease-Classification-with-AI and Web App deployment
+
 
 This Flask web application predicts disease classification based on given features using machine learning. It provides predictions for various diseases such as Anemia, Diabetes, Healthy, Thalassemia, and Thrombosis.
 
